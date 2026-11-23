@@ -2,7 +2,7 @@
 
 **PC 게임과 에뮬레이터 라이브러리를 한곳에서 관리하는 Windows 게임 런처**
 
-UMPC와 게임패드 사용 환경을 고려한 Piggy Launcher 2의 공식 배포 저장소입니다. 최신 정식 버전은 **v2.1.1**입니다.
+UMPC와 게임패드 사용 환경을 고려한 Piggy Launcher 2의 공식 배포 저장소입니다. 현재 배포 버전은 아래 최신 설치 파일 링크에서 확인할 수 있습니다.
 
 [최신 설치 파일](https://github.com/ccs21/PiggyLauncher2.0/releases/latest) · [업데이트 이력](https://piggylauncher2.dothome.co.kr/updates.html) · [사용 설명서](https://piggylauncher2.dothome.co.kr/manual.html) · [버그 제보](https://kwtech.co.kr:5443/bug-report)
 
@@ -47,7 +47,7 @@ Google 로그인은 런처 계정 및 후원자 확인에 사용됩니다. Steam
 
 ## English
 
-**Piggy Launcher 2** is a Windows game launcher for PC games and emulator libraries, designed with handheld gaming PCs and gamepads in mind. The latest stable release is **v2.1.1**.
+**Piggy Launcher 2** is a Windows game launcher for PC games and emulator libraries, designed with handheld gaming PCs and gamepads in mind. Check the latest release link below for the current version.
 
 Manage Steam, Epic Games, GOG, STOVE, manually installed PC games, emulator ROM lists, and `gamelist.xml` in one library. Built-in and user themes, ThemeMaker, and Korean, English, and Japanese interfaces are available.
 
@@ -61,7 +61,7 @@ Piggy Launcher 2 is proprietary software. This release repository does not publi
 
 ## 日本語
 
-**Piggy Launcher 2**は、PCゲームとエミュレーターのライブラリーをまとめて管理するWindows向けゲームランチャーです。UMPCとゲームパッドでの利用を想定しています。最新の正式版は**v2.1.1**です。
+**Piggy Launcher 2**は、PCゲームとエミュレーターのライブラリーをまとめて管理するWindows向けゲームランチャーです。UMPCとゲームパッドでの利用を想定しています。現在のバージョンは下記の最新リリースから確認できます。
 
 Steam・Epic Games・GOG・STOVE・手動登録したPCゲーム、エミュレーターのROM一覧と`gamelist.xml`に対応します。標準テーマ、ユーザーテーマ、ThemeMakerを利用でき、韓国語・英語・日本語に対応しています。
 
